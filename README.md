@@ -1,1 +1,1 @@
-# Image-Generation-with-GANs.
+# Image-Generation-with-GANs
